@@ -1,1 +1,1 @@
-# token
+# NEKOCOIN token
